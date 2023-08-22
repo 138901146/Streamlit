@@ -3,3 +3,4 @@ streamlit
 finance-datareader
 pandas
 datetime
+beautifulsoup4
